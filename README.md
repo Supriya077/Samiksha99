@@ -31,7 +31,14 @@ skills as a programmer.
 </a>
 </div>   
 
+<div>
+  <h2>Top Langs :</h2>
+  <a href="https://github.com/Samiksha99/Samiksha99" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samiksha99&layout=compact" />
+  <a/>
+</div>
+<div>
 ### :mailbox: Reach Out to me: 
 [<img width="60px" src="https://www.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/samiksha-agrawal-53859b195/) 
 [<img width="60px" src="https://i.pinimg.com/originals/b3/26/b5/b326b5f8d23cd1e0f18df4c9265416f7.png" />](https://www.facebook.com/samiksha.agrawal.378/)
-
+</div>
