@@ -23,7 +23,7 @@ skills as a programmer.
 <img align="center" alt="git" width="80px" src="https://linuxbsdos.com/wp-content/uploads/2017/01/git-logo.png"/>
 <img align="center" alt="github" width="50px" src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" />
 </div>
-<div>
+
 <div align="left">
 <h2>GitHub Stats :dart:</h2>
 <a href="https://github.com/Samiksha99/Samiksha99">
@@ -31,15 +31,10 @@ skills as a programmer.
 </a>
 </div>   
 
-<div align="right">
-  <h2>Top Langs :</h2>
-  <a href="https://github.com/Samiksha99/Samiksha99" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samiksha99&layout=compact" />
-  <a/>
-</div>
-</div>
-<div>
 ### :mailbox: Reach Out to me: 
-[<img width="60px" src="https://www.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/samiksha-agrawal-53859b195/) 
-[<img width="60px" src="https://i.pinimg.com/originals/b3/26/b5/b326b5f8d23cd1e0f18df4c9265416f7.png" />](https://www.facebook.com/samiksha.agrawal.378/)
-</div>
+<a href="https://www.linkedin.com/in/samiksha-agrawal-53859b195/">
+<img width="60px" src="https://www.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png?&style=for-the-badge&logo=linkedin&logoColor=white" /> 
+</a>
+<a href ="https://www.facebook.com/samiksha.agrawal.378/">
+<img width="60px" src="https://i.pinimg.com/originals/b3/26/b5/b326b5f8d23cd1e0f18df4c9265416f7.png" />
+  </a>
