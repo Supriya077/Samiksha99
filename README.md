@@ -27,7 +27,7 @@ skills as a programmer.
 <div align="left">
 <h2>GitHub Stats :dart:</h2>
 <a href="https://github.com/Samiksha99/Samiksha99">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Samiksha99&prussian&include_all_commits&count_private=true&show_icons=true&line_height=27&count_private=true&title_color=E53982&text_color=F0F3F4&icon_color=F5BCE9&bg_color=154360" alt="Samiksha's GitHub Stats" />
+
 </a>
 </div>   
 
