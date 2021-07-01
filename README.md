@@ -1,7 +1,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 # I am Samiksha Agrawal :sparkles:
 
-I am an inquisitive and enthusiast 2nd year Computer Engineering Undergraduate, with a strong foundation in math,   Programming and Logic. Seeking to leverage solid development
+I am an inquisitive and enthusiast 3rd year Computer Engineering Undergraduate, with a strong foundation in math,   Programming and Logic. Seeking to leverage solid development
 skills as a programmer.
 
 ## Currently I'm upto :point_down:
